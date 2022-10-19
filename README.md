@@ -7,13 +7,13 @@ I'm interested in the application of big data and machine learning techniques to
 [![Elkip's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Elkip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My favorite languages:
-[![Fav Lang](https://skillicons.dev/icons?i=r,kotlin,java,python,js)](https://skillicons.dev)
+[![Fav Lang](https://skillicons.dev/icons?i=python,r,kotlin,java&theme=dark)](https://skillicons.dev)
 
 #### Favorite Frameworks:
- - Java/Kotlin Spring
- - Angular
- - Python Django
- - D3.js
+[![Fav Frameworks](https://skillicons.dev/icons?i=django,angular,ktor,spring&theme=dark)](https://skillicons.dev)
+
+#### Favorite Tools:
+[![Fav Frameworks](https://skillicons.dev/icons?i=linux,vim,github,idea&theme=dark)](https://skillicons.dev)
 
 I am proficent in many programming langauges and tools, having had experience in roles ranging from data analytics to web application development. 
 
