@@ -5,7 +5,7 @@ at the Boston University School of Public Health in pursuit of working in public
 I'm interested in the application of big data and machine learning techniques to study autoimmune diseases.
 I am proficent in many programming langauges and tools, having had experience in roles ranging from data analytics to web application development.
 
-[![Elkip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elkip)](https://github.com/anuraghazra/github-readme-stats)
+[![Elkip's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Elkip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
