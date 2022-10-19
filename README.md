@@ -10,7 +10,7 @@ I'm interested in the application of big data and machine learning techniques to
 [![Fav Lang](https://skillicons.dev/icons?i=python,r,kotlin,java&theme=dark)](https://skillicons.dev)
 
 #### Favorite Frameworks:
-[![Fav Frameworks](https://skillicons.dev/icons?i=django,angular,ktor,spring&theme=dark)](https://skillicons.dev)
+[![Fav Frameworks](https://skillicons.dev/icons?i=django,spring,angular,d3&theme=dark)](https://skillicons.dev)
 
 #### Favorite Tools:
 [![Fav Frameworks](https://skillicons.dev/icons?i=linux,vim,github,idea&theme=dark)](https://skillicons.dev)
