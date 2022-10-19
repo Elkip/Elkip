@@ -7,10 +7,7 @@ I'm interested in the application of big data and machine learning techniques to
 [![Elkip's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Elkip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My favorite languages:
- - Python
- - R
- - Java/Kotlin
- - Javascript/Typescript
+[![Fav Lang](https://skillicons.dev/icons?i=r,kotlin,java,python,js)](https://skillicons.dev)
 
 #### Favorite Frameworks:
  - Java/Kotlin Spring
