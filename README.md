@@ -4,7 +4,7 @@ I am a data scientist with full stack experience currently working on my Masterâ
 at the Boston University School of Public Health in pursuit of working in public health research.
 I'm interested in the application of big data and machine learning techniques to study autoimmune diseases.
 
-[![Elkip's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Elkip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Elkip's GitHub stats](https://github-readme-stats-c7luxzuis-elkip.vercel.app/api/top-langs/?username=Elkip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My favorite languages:
 [![Fav Lang](https://skillicons.dev/icons?i=python,r,kotlin,java)](https://skillicons.dev)
