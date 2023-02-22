@@ -17,6 +17,4 @@ I'm interested in the application of big data and machine learning techniques to
 
 I am proficent in many programming langauges and tools, having had experience in roles ranging from data analytics to web application development. 
 
-I :heart: Python for it's syntax and powerful libraries, but for web development I usually prefer a more lightwieght Java/Kotlin + Angular stack. I am also proficent in R and SAS for data analysis and machine learning.
-
 Thanks for visting my Github, check out my webstie to learn more!
