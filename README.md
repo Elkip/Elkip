@@ -6,7 +6,7 @@ I'm interested in the application of big data and machine learning techniques to
 
 [![Elkip's GitHub stats](https://github-readme-stats-c7luxzuis-elkip.vercel.app/api/top-langs/?username=Elkip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Favorite languages:
+#### Favorite Languages:
 [![Fav Lang](https://skillicons.dev/icons?i=python,r,kotlin,java)](https://skillicons.dev)
 
 #### Favorite Frameworks:
