@@ -1,7 +1,6 @@
 ## Hello, my name is Mitch!
 
-I am a data scientist with full stack experience currently working on my Master’s degree in Biostatistics 
-at the Boston University School of Public Health in pursuit of working in public health research.
+I am a data scientist with full stack experience, currently working in the Pharma industry. My career goal is to contribute to public health research with my expertise in modern data science tools and analysis techniques.
 
  [![Elkip's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Elkip&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
